@@ -13,4 +13,5 @@ User to enter path of image to be rotated's file kept in the computer, in the fo
 Saves the image into the directory, with user entered name.
 
 Input Image                                                               Rotated Image
+![alt text](https://github.com/tadbeer/Rotate-Image-90Degree-Full/blob/master/fRotate90.jpg)
 
